@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/shalaka.n.tarkar@accenture.com.lwc-l6fo0hii",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve fI1F1nvR7GN8ZZOYtLEY --open"
+  }
+}
